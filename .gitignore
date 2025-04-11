@@ -1,3 +1,6 @@
 /Dataset
 /PreProcessedDataset
 # PreProcessedDataset.zip
+*.env
+__pycache__/
+*.pyc
