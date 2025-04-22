@@ -1,3 +1,8 @@
 /Dataset
 /PreProcessedDataset
+# /models
+venv/
+__pycache__/
 # PreProcessedDataset.zip
+/models/model_epoch3.pt
+/models/transformer_model/model.safetensors
